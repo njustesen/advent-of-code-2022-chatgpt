@@ -7,7 +7,7 @@ Part 2: ChatGPT first responded with a C# solutio. I then asked, "What about in 
 # Read the input
 input_str = ""
 
-with open("dec1.txt") as f:
+with open("1.txt") as f:
     input_str = f.read()
 
 # --- Part 1 ---
