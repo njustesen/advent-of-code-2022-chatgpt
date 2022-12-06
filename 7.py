@@ -1,3 +1,8 @@
+"""
+Part 1: Not changes needed.
+Part 2: Not changes needed.
+"""
+
 # Part 1:
 
 def find_start_of_packet_marker(buffer):
