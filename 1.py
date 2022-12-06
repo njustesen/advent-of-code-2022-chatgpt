@@ -1,7 +1,7 @@
 """
 Solves https://adventofcode.com/2022/day/1 without any changes to the code.
 Part 1: First attempt - not changes to the code.
-Part 2: ChatGPT first responded with a C# solutio. I then asked, "What about in python?" and that worked. Not changes made other than calling the function in the end.
+Part 2: ChatGPT first responded with a C# solution. I then asked, "What about in python?" and that worked. No changes made other than calling the function in the end.
 """
 
 # Read the input
