@@ -1,4 +1,5 @@
 """
+Solves https://adventofcode.com/2022/day/5
 Part 1: It got the stack data structure correct but I had to add an iterator to move_crates(). 
 I also had to add significant changes to the parser and other things.
 Part 2: Interestingly, the sentence "the ability to pick up and move multiple crates at once" made it fix some of the 

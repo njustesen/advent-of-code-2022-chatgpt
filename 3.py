@@ -1,4 +1,5 @@
 """
+Solves https://adventofcode.com/2022/day/3
 Part 1: First two attempts came close - both required two lines to be changed. Third attempt worked without any changes.
 Part 2: First two attempts were not good - third attempt worked without changes.
 """
